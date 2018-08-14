@@ -178,7 +178,7 @@ footer a:hover {
 
 /* TABLET*/
 
-@media screen and (min-width: 35rem) and (max-width: 60rem) {
+@media screen and (min-width: 35rem) and (max-width: 80rem) {
     body {
         font-size: 1rem;
     }
@@ -214,7 +214,7 @@ footer a:hover {
 
 /* DESKTOP*/
 
-@media screen and (min-width: 60rem) {
+@media screen and (min-width: 80rem) {
     body {
         font-size: 1.25rem;
         text-align: left;
